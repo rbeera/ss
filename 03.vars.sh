@@ -9,4 +9,4 @@ echo Course Name = $CourseName
 
 # DATE=2021-06-08
 DATE=$(date +%F)
-echo Good Morning, Todayd date is $DATE
+echo Good Morning, Todays date is "$DATE"
